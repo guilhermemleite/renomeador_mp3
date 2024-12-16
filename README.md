@@ -9,8 +9,8 @@ O script segue os seguintes passos:
 1. Solicita ao usuário o caminho da pasta principal onde estão localizados os arquivos .mp3.
 2. Percorre todos os arquivos .mp3 dentro da pasta (e suas subpastas, se houver).
 3. Renomeia os arquivos:
-a) Remove quaisquer números iniciais (e espaços adjacentes) no nome do arquivo.
-b) Aplica uma sequência numérica no formato XX (ex.: 01, 02, etc.), com base na ordem dos arquivos.
+- Remove quaisquer números iniciais (e espaços adjacentes) no nome do arquivo.
+- Aplica uma sequência numérica no formato XX (ex.: 01, 02, etc.), com base na ordem dos arquivos.
 4. Exibe no terminal os nomes dos arquivos antes e depois da renomeação.
 5. Após concluir, pergunta ao usuário se deseja realizar o mesmo processo em outra pasta ou encerrar o programa.
 
