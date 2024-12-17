@@ -1,4 +1,4 @@
-# Renomeador de Arquivos MP3 com Sequência Numérica
+# Renomeador de arquivos MP3 com sequência numérica
 
 Este script em Python renomeia arquivos .mp3 dentro de uma pasta específica, removendo números iniciais no nome dos arquivos e aplicando uma nova sequência numérica. Ele é útil para organizar arquivos de áudio que possuem nomes confusos ou desordenados.
 
